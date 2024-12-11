@@ -1,4 +1,4 @@
-<h1 align="center">Hy nice too meet u</h1>
+<h1 align="center">Hy nice to meet u</h1>
 
 ###
 
