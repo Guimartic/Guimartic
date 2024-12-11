@@ -1,5 +1,5 @@
 ## Hi there 👋
 <div> 
-<https://github-readme-stats.vercel.app/api/top-langs/?username=guimartic&layout=compact>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
 
