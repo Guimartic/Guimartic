@@ -26,13 +26,13 @@
 
 ###
 
-<img align="right" height="300" src="https://i.imgur.com/leZOdBP.gif"  />
+<img align="right" height="281" src="https://i.imgur.com/leZOdBP.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guimartic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="142" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guimartic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="110" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=guimartic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="131" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guimartic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="105" alt="languages graph"  />
 </div>
 
 ###
