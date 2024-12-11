@@ -1,4 +1,4 @@
-<h1 align="center">Hy nice too meet u</h1>
+<h1 align="center">Hi nice to meet u :]</h1>
 
 ###
 
@@ -33,8 +33,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guimartic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="144" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=guimartic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="157" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guimartic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="125" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="500" src="https://steamuserimages-a.akamaihd.net/ugc/816686421609822330/AD91AB6D38E200ADC0423FD93A1B483BDA473FFE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
 
 ###
