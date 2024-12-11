@@ -26,7 +26,7 @@
 
 ###
 
-<img align="right" height="281" src="https://i.imgur.com/leZOdBP.gif"  />
+<img align="right" height="251" src="https://i.imgur.com/leZOdBP.gif"  />
 
 ###
 
